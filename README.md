@@ -1,6 +1,6 @@
 # Crime-Analysis-
 Crime Analysis Project Using Power BI - This project is to analyze crime data in India using Power BI tool in order to assist multinational banks in identifying the right location to invest in office space.
-# Key Features -
+### Key Features -
 **Country**: India
 
 **Year** : 2018
@@ -14,3 +14,5 @@ Crime Analysis Project Using Power BI - This project is to analyze crime data in
 **Geographical Visualization** : Interactive map showing victims of IPC crimes by states.
   
 **Crime by Category** : Victims and incidence of IPC crimes by category.
+## Conclusion - 
+This project leverages Power BI data visualization capabilities to deliver actionable insights for multinational banks, helping them make informed decisions regarding office investments in India.
